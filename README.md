@@ -29,7 +29,7 @@ I'm a **Full-Stack Web Developer** and **MERN Stack Enthusiast** with a passion 
 ---
 
 ## 📬 Let's Connect
-- 🌐 [Portfolio](https://wwww.hardik-webdev.online)
+- 🌐 [Portfolio](https://www.hardik-webdev.online)
 - 💼 [LinkedIn](https://linkedin.com/in/hardik-pateriya)  
 - 📧 [hardik979@gmail.com](mailto:pateriyag999@gmail.com)  
 
