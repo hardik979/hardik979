@@ -24,7 +24,6 @@ I'm a **Full-Stack Web Developer** and **MERN Stack Enthusiast** with a passion 
 ---
 
 ## 📈 GitHub Stats
-![Hardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardik979&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik979&layout=compact&theme=radical)
 
 ---
